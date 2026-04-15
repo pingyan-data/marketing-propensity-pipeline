@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/ping/marketing-propensity-pipeline/mlruns/622210053734625403/40bd8b6b962846f4a9afe581dc52a8f0/artifacts
+end_time: 1776289388419
+entry_point_name: ''
+experiment_id: '622210053734625403'
+lifecycle_stage: active
+run_id: 40bd8b6b962846f4a9afe581dc52a8f0
+run_name: k=11
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776289388385
+status: 3
+tags: []
+user_id: ping

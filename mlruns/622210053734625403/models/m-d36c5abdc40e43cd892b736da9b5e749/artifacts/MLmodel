@@ -1,0 +1,22 @@
+artifact_path: file:///Users/ping/marketing-propensity-pipeline/mlruns/622210053734625403/models/m-d36c5abdc40e43cd892b736da9b5e749/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.9.6
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+mlflow_version: 3.1.4
+model_id: m-d36c5abdc40e43cd892b736da9b5e749
+model_size_bytes: 5243
+model_uuid: m-d36c5abdc40e43cd892b736da9b5e749
+prompts: null
+run_id: 41faa471231442cdb6a9971087a53bd9
+utc_time_created: '2026-04-15 21:43:08.500821'

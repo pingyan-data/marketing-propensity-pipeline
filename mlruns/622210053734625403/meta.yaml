@@ -1,0 +1,6 @@
+artifact_location: file:///Users/ping/marketing-propensity-pipeline/mlruns/622210053734625403
+creation_time: 1776289388225
+experiment_id: '622210053734625403'
+last_update_time: 1776289388225
+lifecycle_stage: active
+name: propensity_model

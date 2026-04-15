@@ -1,0 +1,10 @@
+artifact_location: file:///Users/ping/marketing-propensity-pipeline/mlruns/622210053734625403/models/m-d36c5abdc40e43cd892b736da9b5e749/artifacts
+creation_timestamp: 1776289388495
+experiment_id: '622210053734625403'
+last_updated_timestamp: 1776289390183
+model_id: m-d36c5abdc40e43cd892b736da9b5e749
+model_type: null
+name: best_model
+source_run_id: 41faa471231442cdb6a9971087a53bd9
+status: 2
+status_message: null
